@@ -1,3 +1,4 @@
 # Python 3.7.1
 numpy==1.18.0
 opencv-python==4.1.2.30
+Kivy==1.11.1
